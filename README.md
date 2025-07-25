@@ -38,8 +38,6 @@ multiple-file-uploading/
 │   └── ...other pages
 ├── public/
 │   └── ...static files
-├── styles/
-│   └── globals.css
 ├── package.json
 ├── README.md
 └── ...other config files
