@@ -11,7 +11,9 @@ A Next.js application for uploading multiple files efficiently, featuring a drag
 
 ## Getting Started
 
-Clone the repository and install dependencies:
+## Live Demo
+
+Check out the live demo: [https://multiple-file-uploading-system.vercel.app/](https://multiple-file-uploading-system.vercel.app/)
 
 ```bash
 git clone https://github.com/arththakkar1/multiple-file-uploading-system
