@@ -9,8 +9,6 @@ A Next.js application for uploading multiple files efficiently, featuring a drag
 - Modern UI built with Next.js
 - Fast and responsive
 
-## Getting Started
-
 ## Live Demo
 
 Check out the live demo: [https://multiple-file-uploading-system.vercel.app/](https://multiple-file-uploading-system.vercel.app/)
