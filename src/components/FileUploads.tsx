@@ -41,8 +41,6 @@ function FileUploads() {
     if (inputRef.current) inputRef.current.value = "";
   };
 
-  const handleClearFiles = () => setFiles([]);
-
   const handleUploadFiles = async () => {
     if (files.length === 0 || uploading) return;
 
